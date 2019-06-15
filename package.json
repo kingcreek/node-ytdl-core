@@ -48,7 +48,7 @@
     "node": ">=6"
   },
   "scripts": {
-    "start": "npm test"
+    "start": "node get_info.js"
   },
   "license": "MIT"
 }
