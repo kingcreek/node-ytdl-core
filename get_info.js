@@ -1,6 +1,6 @@
 const path = require('path');
 const fs   = require('fs');
-const ytdl = require('..');
+const ytdl = require('./lib/index');
 const id  = 'qR9fuHodXG4';
 
 const filepath = path.resolve(__dirname, 'info.json');
